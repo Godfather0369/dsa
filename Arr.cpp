@@ -10,7 +10,6 @@ void display(const int arr[], int n);
 void search(const int arr[], int n);
 void update(int arr[], int n);
 
-
 int main() {
     int arr[MAX];
     int n = 0, choice;
